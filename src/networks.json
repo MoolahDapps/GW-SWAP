@@ -1,0 +1,21 @@
+{
+  "868455272153094": {
+    "name": "Godwoken testnet",
+    "rpc": "https://godwoken-testnet-web3-v1-rpc.ckbapp.dev",
+    "chainId": 868455272153094,
+    "explorer": "https://v1.aggron.gwscan.com",
+    "color": "",
+    "registry": "0x04ad4Ce6015141F6f582A7451Cb7CD6866609298",
+    "multicall": "0x275B20Fd63096B64A53B1311f179B39b4b25EFBc",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "CKB",
+      "symbol": "CKB"
+    },
+    "wrappedToken": {
+      "address": "0x9664EC984D1c0d44dD22C161da1D06f7f72Ae092",
+      "name": "Wrapped CKB",
+      "symbol": "WCKB"
+    }
+  }
+}
